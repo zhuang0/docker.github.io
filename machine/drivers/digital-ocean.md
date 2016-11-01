@@ -31,6 +31,7 @@ When passing a boolean value to any option, the argument requires a slightly dif
 -   `--digitalocean-ssh-user`: SSH username.
 -   `--digitalocean-ssh-port`: SSH port.
 -   `--digitalocean-ssh-key-fingerprint`: Use an existing SSH key instead of creating a new one, see [SSH keys](https://developers.digitalocean.com/documentation/v2/#ssh-keys).
+-   `--digitalocean-ssh-key-path`: Path to private SSH key. `--digitalocean-ssh-key-fingerprint` must be provided with this option.
 
 The DigitalOcean driver will use `ubuntu-16-04-x64` as the default image.
 

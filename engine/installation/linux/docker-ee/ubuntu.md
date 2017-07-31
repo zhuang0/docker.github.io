@@ -11,7 +11,7 @@ title: Get Docker EE for Ubuntu
 {% assign minor-version = "17.03" %}
 
 To get started with Docker EE on Ubuntu, make sure you
-[meet the prerequisites](#prerequisites), then
+[meet the prerequisites](ubuntu.md#prerequisites), then
 [install Docker](#install-docker).
 
 ## Prerequisites

@@ -24,7 +24,7 @@ about each mechanism for mounting data into containers.
 
 ## Choose the right type of mount
 
-No matter which type of mount you choose to use, the data looks the same from
+No matter which kind of mount you choose to use, the data looks the same from
 within the container. It is exposed as either a directory or an individual file
 in the container's filesystem.
 

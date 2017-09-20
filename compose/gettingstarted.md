@@ -102,7 +102,7 @@ Hub registry.
 
 ## Step 4: Build and run your app with Compose
 
-1.  From your project directory, start up your application by running `docker-compose up`.
+1.  From your project directory, start up your application by running `docker-compose up --build`.
 
     ```
     $ docker-compose up
